@@ -1,1 +1,2 @@
 Linha da branch_A
+Linha da branch_B
